@@ -1,6 +1,4 @@
-# PL/SQL Assignment One – Sunrise Supermarket
-
-## Student Information
+# PL/SQL Assignment 1
 
 **Name:** Ishimwe Jessica 
 **Student ID:** 20251SEN222
