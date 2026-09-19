@@ -81,14 +81,6 @@ This query calculates the number of days between a customer's current order and 
 
 ![Window Function 4](screenshots/query4.png)
 
-## 6. Business Interpretation
-
-The queries help Sunrise Supermarket understand customer spending, ordering patterns, and revenue over time. This information can help the business monitor sales and understand customer purchasing behavior.
-
-## 7. Challenges and Solutions
-
-One challenge was working with several related tables. I used primary and foreign keys to correctly connect the tables and make sure the queries returned the required information.
-
-## 8. Conclusion
+## 6. Conclusion
 
 The project demonstrates how SQL JOINs, CTEs, and window functions can be used to analyze supermarket sales data and produce useful business information.
