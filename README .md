@@ -11,7 +11,7 @@
 This project analyzes sales data for Sunrise Supermarket using SQL. 
 The database contains customers, products, orders, and order items.
 
-## 2. Database Tables
+## 2. Database Tables and System Used
 
 The project contains four tables:
 
@@ -26,6 +26,8 @@ The database was populated with:
 - 8 products
 - 15 orders
 - 25 order items
+
+This project was implemented and tested using PostgreSQL.
 
 ## 3. JOIN Queries
 
@@ -81,6 +83,14 @@ This query calculates the number of days between a customer's current order and 
 
 ![Window Function 4](screenshots/query4.png)
 
-## 6. Conclusion
+## 6. Business Interpretation
+
+The queries help Sunrise Supermarket understand customer spending, ordering patterns, and revenue over time. This information can help the business monitor sales and understand customer purchasing behavior.
+
+## 7. Challenges and Solutions Used
+
+One challenge was working with several related tables. I used primary and foreign keys to correctly connect the tables and make sure the queries returned the required information.
+
+## 8. Conclusion
 
 The project demonstrates how SQL JOINs, CTEs, and window functions can be used to analyze supermarket sales data and produce useful business information.
